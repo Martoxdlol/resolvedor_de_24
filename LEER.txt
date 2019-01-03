@@ -1,0 +1,14 @@
+Faltan dos archivos
+
+uno es
+
+./android/key.propieties
+que el contenido es:
+
+  storePassword=CLAVE
+  keyPassword=CLAVE2
+  keyAlias=key
+  storeFile=key.jks
+
+Y tambien falta
+./android/app/key.jks
